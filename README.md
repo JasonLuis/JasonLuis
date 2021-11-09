@@ -1,4 +1,5 @@
 ### Olá! Sou Djeison Luis ou Jason Luis, sou um estudante de programação focado no desenvolvimento web e mobile👋
+- Trabalhando como Full Stack Developer
 - Estudando NodeJS
 - Estudando TypeScrypt
 - Estudando VueJS
