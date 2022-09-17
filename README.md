@@ -1,8 +1,10 @@
-### Olá! Sou Djeison Luis, sou um Desenvolvedor Full Stack Jr👋
-- Trabalhando como Desenvolvedor Web VueJS
-- Estudando NodeJS
-- Estudando TypeScrypt
-- Estudando VueJS
+### Olá! Sou Djeison Luis Jr👋
+- Trabalhando como Desenvolvedor Web
+- Conhecimento em VueJS
+- Conhecimento em NodeJS
+- Conhecimento em TypeScrypt
+- Conhecimento em Java
+- Conhecimmento em Spring Boot
 
 <div align="center">
   <a href="https://github.com/JasonLuis">
