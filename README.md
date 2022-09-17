@@ -1,4 +1,4 @@
-### Olá! Sou Djeison Luis Jr👋
+### Olá! Sou Djeison Luis👋
 - Trabalhando como Desenvolvedor Web
 - Conhecimento em VueJS
 - Conhecimento em NodeJS
