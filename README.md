@@ -1,11 +1,8 @@
 ### Olá! Sou Djeison Luis👋
 - 🔭 Trabalho como Desenvolvedor Fullstack...
 - 🔍 A procura de uma oportunida...
-- 🤔 Conhecimento em VueJS
-- 🤔 Conhecimento em NodeJS
-- 🤔 Conhecimento em TypeScrypt
-- 🤔 Conhecimento em Java
-- 🤔 Conhecimmento em Spring Boot
+- 🤔 Conhecimento em VueJS, NodeJS, Typescript,Java, Spring Boot, Kotlin...
+- 📖 Sempre Aprendendo...
 
 <div>
   <a href="https://github.com/JasonLuis">
