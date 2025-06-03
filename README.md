@@ -1,6 +1,6 @@
 ### Olá! Sou Djeison Luis 👋
 - 🔭 Trabalho como Desenvolvedor Fullstack...
-- 🧠 Conhecimento em VueJS, NodeJS, Typescript e .Net
+- 🧠 Conhecimento em VueJS, NodeJS, Typescript e .NET
 - 📚 Estudando C# e ASP.NET Framework
 - 👁️ Aprendendo sobre Visão computacional
 - 📖 Sempre aprendendo...
