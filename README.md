@@ -1,7 +1,7 @@
 ### Olá! Sou Djeison Luis 👋
 - 💻 Trabalho como Desenvolvedor Fullstack
 - 🧠 Conhecimento em VueJS, NodeJS, Typescript e .NET
-- 📚 Estudando C# e ASP.NET Framework
+- 📚 Foco em C# e ASP.NET Framework
 
 <div>
     <a href="https://github.com/JasonLuis">
