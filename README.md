@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:jason20luis@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -66,7 +66,8 @@
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor Fullstack com experiência em sistemas corporativos
-- ⚙️ Forte atuação com **C#, ASP.NET, APIs REST e arquitetura limpa**
+- 🎨 Forte atuação em **Frontend moderno (Vue.js, Angular, React)** com foco em UX e componentização
+- ⚙️ Experiência sólida com **C#, ASP.NET, APIs REST e arquitetura limpa**
 - 🎯 Foco em performance, qualidade de código e boas práticas
 - 📚 Sempre evoluindo em novas tecnologias e padrões
 
