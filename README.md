@@ -12,7 +12,7 @@
     </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 3px;"><br>
     <img align="center" alt="Jason-CSharp" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Jason-Blazor" height="30" width="40"
