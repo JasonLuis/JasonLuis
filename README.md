@@ -73,6 +73,42 @@
 
 ---
 
+
+---
+
 ## 🧩 Projetos em destaque
 
-🔹 Em breve...
+### 🔗 LinkNLearn
+
+> Plataforma para compartilhamento e organização de conteúdos e links de aprendizado.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/UI-MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Runtime-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORM-TypeORM-E83524?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+#### 📦 Repositórios
+
+- 🎨 Frontend  
+  https://github.com/sasle/LinkNLearn
+
+- ⚙️ Backend  
+  https://github.com/JasonLuis/LinkNLearn
+
+#### 🚀 Funcionalidades
+- Compartilhamento de links
+- Organização de conteúdos
+- API REST
+- Persistência com PostgreSQL
+- Interface moderna com Material UI
+
+#### 🛠️ Melhorias em andamento
+- Refatoração da arquitetura backend
+- Melhor organização de responsabilidades
+- Evolução da estrutura da API
+- Novas funcionalidades
